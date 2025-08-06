@@ -29,3 +29,39 @@ ul img{
     list-style: none;
     cursor: pointer;
 }
+main{
+    text-align: center;
+    padding: 40px 20px;
+}
+.main1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+ .main1 img {
+  height: 60px;
+}
+.main1 h3{
+    font-size: 2rem ;
+    font-weight: 400;
+}
+.main2 p{
+    margin: 20px auto;
+    max-width: 650px;
+    font-size: 1rem;
+    color: #1c1212;
+}
+button{
+    padding: 10px 20px ;
+    border-radius: 5px;
+    background-color:  #3fb8c8;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+main img{
+    width: 150px;
+}
